@@ -15,7 +15,7 @@
  
  * [Лабораторная работа №1. Когнитивные карты](https://docs.google.com/document/d/1rjBai3gXuVcYie3QIyMVEsfO9TpUOtq3Gg6QgZzV_Cw/edit?usp=sharing)
  * [Лабораторная работа №2. Python. Функциональные возможности](https://docs.google.com/document/d/1aSWeBivbn1kVZsowpsnGJZDF_E68KAS1vXxWg2Kh6GQ/edit?usp=sharing)
- * [Лабораторная работа №3. Python. Объектно-ориентированные возможности](https://docs.google.com/document/d/1Cr_ijD3sWv0N0xE3rHiJaT4H5D7L8mKcLFqSa9d6Aco/edit?usp=sharing) ( [Пример](examples/lab_python_oop.zip) )
+ * [Лабораторная работа №3. Python. Объектно-ориентированные возможности](https://docs.google.com/document/d/1Cr_ijD3sWv0N0xE3rHiJaT4H5D7L8mKcLFqSa9d6Aco/edit?usp=sharing) ( [Пример](examples/lab_python_oop) )
 
 ### Автоматизированное тестирование 
 
