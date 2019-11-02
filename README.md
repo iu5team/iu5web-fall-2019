@@ -6,10 +6,16 @@
 
  * [Лекция №1. Когнитивные карты](https://github.com/iu5team/iu5web-fall-2019/wiki/concept_maps)
  * [Лекция №2. Введение в веб-технологии](https://ugapanyuk.github.io/data/lect_intro.pdf)
- * Лекция №3. Язык программирования Python
-   * [Введение](https://docs.google.com/presentation/d/1GPU_ZRpMBL-31poOgjKHzRALKyA1eNHFgYUAYd1zcDM/edit?usp=sharing)
-   * [Объектно-ориентированные возможности](https://docs.google.com/presentation/d/1fqQv35Gz4RElPvoR-1G79vkBg7l1aHayMBH45Z-IVtU/edit#slide=id.p)
-   * [Функциональные возможности](https://docs.google.com/presentation/d/1JkI3b0-XVK7E_YbagLgUYko8VoVr_Gqmp3VOfLzaaJE/edit#slide=id.p) ( [Дополнительные примеры](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2019/blob/master/notebooks/python_examples.ipynb) )
+ * Язык программирования Python
+   * [Лекция №3. Введение](https://docs.google.com/presentation/d/1GPU_ZRpMBL-31poOgjKHzRALKyA1eNHFgYUAYd1zcDM/edit?usp=sharing)
+   * [Лекция №4. Объектно-ориентированные возможности](https://docs.google.com/presentation/d/1fqQv35Gz4RElPvoR-1G79vkBg7l1aHayMBH45Z-IVtU/edit#slide=id.p)
+   * [Лекция №5. Функциональные возможности](https://docs.google.com/presentation/d/1DYpAi-BYJDXX5_gN1ljJB16hb_lL5yvE7xmfZoXqOgc/edit?usp=sharing) ( [Дополнительные примеры](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2019/blob/master/notebooks/python_examples.ipynb) )
+ * [Лекция №6. Сеть](https://docs.google.com/presentation/d/1mlU2fNaqo3JAnalJ_bT9aq3qrQ1QZmDDBrWiuJ2Ffqw/edit?usp=sharing)
+ * Django
+   * [Лекция №7. Django. Введение](https://docs.google.com/presentation/d/1joel6Jn8JAdCkbwxPQkEiDCmycBDFd-P7lqekOQa7fY/edit?usp=sharing)
+   * [Лекция №8. Базы данных](https://docs.google.com/presentation/d/1BAr9AAATUQyJOWw0jYpPYHUzVu0hzP_UO91GLDvQhMo/edit?usp=sharing)
+   * [Лекция №9. Модели](https://docs.google.com/presentation/d/1Dr2m1Gdn3PfxQajhMG8qXguCsvYMWIU4Bdqp9418rFc/edit?usp=sharing)
+ 
 
 ### Лабораторные работы 
  
