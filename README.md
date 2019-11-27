@@ -23,6 +23,20 @@
  * [Лабораторная работа №2. Python. Функциональные возможности](https://docs.google.com/document/d/1aSWeBivbn1kVZsowpsnGJZDF_E68KAS1vXxWg2Kh6GQ/edit?usp=sharing)
  * [Лабораторная работа №3. Python. Объектно-ориентированные возможности](https://docs.google.com/document/d/1Cr_ijD3sWv0N0xE3rHiJaT4H5D7L8mKcLFqSa9d6Aco/edit?usp=sharing) ( [Пример](examples/lab_python_oop) )
  * [Лабораторная работа №4. Django. Шаблонизация](https://docs.google.com/document/d/1b2PuHdqYK89d0MPAEcAl6dmSYB55jepJxBrd7Ub0kY8/edit?usp=sharing)
+ * [Лабораторная работа №5. Обработка данных с использованием Django ORM](https://docs.google.com/document/d/1oxeT-8BEdYHkN64gmGoQscpb_jC3CSfmoN294ah-jeU/edit?usp=sharing)
+ * [Лабораторная работа №6. Работа с формами, авторизация и модуль администрирования в Django](https://docs.google.com/document/d/1C7l2FxjkvGTZrMDRGarKChn-Q6iYflRfvVKmYo4B960/edit?usp=sharing)
+ * [Лабораторная работа №7. Работа с DOM с использованием JavaScript](https://docs.google.com/document/d/18LHfo-iaQ7_LLQy7X3Xcweurugt0EdILF7uOSBakzwc/edit?usp=sharing)
+ * [Лабораторная работа №8. Создание одностраничного веб-приложения с использованием библиотеки React](https://docs.google.com/document/d/1Vp1GFbJIgMXRe55X6axrg7SpSUXoUnHXO4IdvrPWPYk/edit?usp=sharing)
+
+
+### Рубежные контроли
+ * [Рубежный контроль №1](https://docs.google.com/document/d/1z3UrITgJh-jcTHU4-5pklkWJf8Yq9g4-7eJO1VmMvfo/edit?usp=sharing)
+ * [Рубежный контроль №2](https://docs.google.com/document/d/16O6sDAG5ijtkvXxyQh1Yr4NWOuQQWSn_cxGyXRtURuw/edit?usp=sharing)
+
+
+### Домашнее задание 
+ * [Условия домашнего задания](https://docs.google.com/document/d/1m4TtODauMTDfd9cHuo7VX0AiQw8nYsPUWMPjVKxIBc8/edit?usp=sharing)
+
 
 ### Автоматизированное тестирование 
 
